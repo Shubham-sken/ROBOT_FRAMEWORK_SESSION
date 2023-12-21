@@ -1,0 +1,7 @@
+checkout_link = '//a[@class="shopping_cart_link"]'
+checkout_btn = '//button[@name="checkout"]'
+txt_box_first_name = '//*[@id="first-name"]'
+txt_box_last_name = '//*[@id="last-name"]'
+txt_box_zipcode = '//*[@id="postal-code"]'
+finish_btn = '//button[@id="finish"]'
+continue_btn = '//input[@id="continue"]'
